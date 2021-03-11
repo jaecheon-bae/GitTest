@@ -18,6 +18,7 @@
 
 	</ul>
 	<p>지금 상황에서는 신규 개발 브랜치가 이 파일을 가급적이면 손대지 않는것이 좋다.</p>
+	<a href="newIndex.jsp">브랜치 관련 설명</a>
 </body>
 <script>
 </script>
